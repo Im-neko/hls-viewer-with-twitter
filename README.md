@@ -7,6 +7,7 @@
 3. `.env.example`をコピーして`.env`を自分の環境に合わせて作る。
 4. `api/src/config/env.js.example`をコピーして`api/src/config/env.js`を自分の環境に合わせて作る。
 5. `docker-compose up -d` で起動する
-6. `ハッシュタグを好きに書き換える
+6. ハッシュタグを好きに書き換える
+[![Image from Gyazo](https://i.gyazo.com/3a9d0262dba1e58dbad80d04bd2f0652.gif)](https://gyazo.com/3a9d0262dba1e58dbad80d04bd2f0652)
 
 hls以外のもreact-playerで表示できそうなので用途に応じてuser agent見て書き換えるようにしたりすると良いのかもしれない
